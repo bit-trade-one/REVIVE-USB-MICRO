@@ -30,22 +30,24 @@ Assembly DeskのサイトからHIDBootLoader.exeをダウンロードします�
 
 ### 3. ソフトの書き込み
 
+最初に、設定ツールからREVIVE USB MICROをBOOTモードにします。
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/01soft.jpg)
+右下の「Update」ボタンをクリックしてください。
+1[](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/02update.jpg)
+するとこのようにダイアログが表示されます。
+OKをクリックすると、REVIVE USB MICROがBOOTモードになります。
+
 HIDBootLoader.exeを立ち上げます。  
-![](https://lh5.googleusercontent.com/-LoOXYx-U6JU1DHq827MB8_Rr_vVrsVM1tQ-15Qt62flYZ1t7dUdVXaBLf_9_d8waA406JswOexrPiNcTl_VAKZCXRSiR_85DPMlKXC-l3Gu-h_cQFDRFD0I)  
-次に、REVIVE USBのショートピンをBOOTに設定し、USBケーブルを接続します。  
-（REVIVE USBが既に差し込んであった場合には一度抜いてからショートピンをBOOTに変更し、再度USBケーブルを差し込みます）  
-![](https://lh4.googleusercontent.com/pMICZ6pBKk9dScJrVAqOMX_rBjZCpKkjMuCiYZ_BEP-B4R-zhiyMBPBcUIJZXGn5NGJHRjlyVFimkgDp8CANROQepg-DbWDXUkuaa6Q-D2oAZhN8uEB5xmSK)  
-ショートピンをBOOTの方にし、USB ケーブルを接続します。  
-![](https://lh5.googleusercontent.com/WIZEQkqjACZQy8cXOTtHcCphWbtTRoAqtJRJBU4nBQPqal6o29Db1RgKaR72U6k9Pn_UAZ2AqRlzY-mzc5lbXGeQh_NJplQKMsG8f_8lXTqhUVoLEP2wsSWA)  
+
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/03HIDTool.png)  
 デバイスが認識されると上図の様に「Device attached」と表示されます。  
-この表示が出たら「上」ボタンは離しても大丈夫です。  
-始めてBOOTモードで接続した時には、自動的にPCにドライバがインストールされます。（約１分程時間かかります）  
+初めてBOOTモードで接続した時には、自動的にPCにドライバがインストールされます。（約１分程時間かかります）  
 
 「Open Hex File」を押します。  
 書き込みたいHexファイルを選択します。  
-![](https://lh3.googleusercontent.com/M8iLRDr4ywckCrp2ERl6yFlg6HMsUwJquLnQfvSFLhfWz28tyif9Cr_iAMP5f9j9JymHWjI8bpvXKoDS78xEfp4jwaLLE6WDRqgqgX6bYB_RdXZl32eBdSoo)  
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/04choose.png)  
 「Program/Verify」を押します。  
 ソフトが書き込まれます。  
-![](https://lh5.googleusercontent.com/QnN9dpeDCuivzr7NDv4quTuaJwTE5Ut8tlmfiqqxeoutUQGiw5qZyKojG7Qyg5cBqKgqW9vWMpxk2g-Z3HWYOG1ZpEzaXaJ6gjWSBrTt4eZXBmrXhTXVmlFj)  
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/05Program.png)  
 USBケーブルを抜き差しすると、書き込んだソフトが起動します。  
 
