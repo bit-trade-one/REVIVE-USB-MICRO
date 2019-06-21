@@ -1,10 +1,10 @@
-# REVIVE USB
+# REVIVE USB MICRO
 
 ## HIDブートローダ書き込みソフト（HIDBootLoader.exe）の使い方
 
 ### 1. このソフトで何が出来るのか
 
-REVIVE USBはMicrochip社のPICと言うマイコンを用いて作られています。  
+REVIVE USB MICROはMicrochip社のPICと言うマイコンを用いて作られています。  
 通常、PICマイコンにソフトを書き込む為には「ライタ」と呼ばれる書き込み装置が必要です。  
 （Microchip社が出しているPICkitや、秋月電子のキットであるAKI-PICプログラマーなどが有名です）  
 
@@ -12,8 +12,8 @@ REVIVE USBはMicrochip社のPICと言うマイコンを用いて作られてい�
 ただし、その為にはマイコンにBootLoaderと呼ばれる特別なソフトがあらかじめ書き込まれている必要があり、またUSB経由で書き込むソフトもBootLoaderに対応したものになっていなければなりません。  
 あらかじめ書き込まれるBootLoader自体は、「ライタ」で書き込まなければなりません。  
 
-REVIVE USBに付属しているマイコンにはこのBootLoaderと言う特別なソフトがあらかじめ書かれています。よって、特別なライタをお持ちでなくてもUSB経由でソフトを書き込むことができます。  
-また、Assembly Deskで公開されているREVIVE USB用のソフトはこのBootLoaderでの書き込みに対応したソフトになっています。  
+REVIVE USB MICROに付属しているマイコンにはこのBootLoaderと言う特別なソフトがあらかじめ書かれています。よって、特別なライタをお持ちでなくてもUSB経由でソフトを書き込むことができます。  
+また、Assembly Deskで公開されているREVIVE USB MICRO用のソフトはこのBootLoaderでの書き込みに対応したソフトになっています。  
 
 このBootLoaderを使うことで、USB経由で簡単にソフトを書き換えて、REVIVE USBのソフトを様々に書き換える事ができます。  
 
@@ -47,5 +47,5 @@ HIDBootLoader.exeを立ち上げます。
 「Program/Verify」を押します。  
 ソフトが書き込まれます。  
 ![](https://lh5.googleusercontent.com/QnN9dpeDCuivzr7NDv4quTuaJwTE5Ut8tlmfiqqxeoutUQGiw5qZyKojG7Qyg5cBqKgqW9vWMpxk2g-Z3HWYOG1ZpEzaXaJ6gjWSBrTt4eZXBmrXhTXVmlFj)  
-ショートピンを通常状態に戻し、USBケーブルを抜き差しするか、「Reset Device」を押すと、書き込んだソフトが起動します。  
+USBケーブルを抜き差しすると、書き込んだソフトが起動します。  
 
