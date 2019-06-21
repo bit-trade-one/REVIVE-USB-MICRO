@@ -33,7 +33,7 @@ Assembly DeskのサイトからHIDBootLoader.exeをダウンロードします�
 最初に、設定ツールからREVIVE USB MICROをBOOTモードにします。
 ![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/01soft.jpg)
 右下の「Update」ボタンをクリックしてください。
-1[](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/02update.jpg)
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/02update.jpg)
 するとこのようにダイアログが表示されます。
 OKをクリックすると、REVIVE USB MICROがBOOTモードになります。
 
