@@ -1,4 +1,4 @@
-# REVIVE USB Configuration Toolの使い方
+# REVIVE USB MICRO Configuration Toolの使い方
 
 ## 1. 概要
 
