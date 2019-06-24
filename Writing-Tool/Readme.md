@@ -13,13 +13,13 @@ REVIVE USB MICROはMicrochip社のPICと言うマイコンを用いて作られ�
 あらかじめ書き込まれるBootLoader自体は、「ライタ」で書き込まなければなりません。  
 
 REVIVE USB MICROに付属しているマイコンにはこのBootLoaderと言う特別なソフトがあらかじめ書かれています。よって、特別なライタをお持ちでなくてもUSB経由でソフトを書き込むことができます。  
-また、Assembly Deskで公開されているREVIVE USB MICRO用のソフトはこのBootLoaderでの書き込みに対応したソフトになっています。  
+また、GitHubで公開されているREVIVE USB MICRO用のソフトはこのBootLoaderでの書き込みに対応したソフトになっています。  
 
 このBootLoaderを使うことで、USB経由で簡単にソフトを書き換えて、REVIVE USBのソフトを様々に書き換える事ができます。  
 
 ### 2. 準備
 
-Assembly DeskのサイトからHIDBootLoader.exeをダウンロードします。  
+[こちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/tree/master/Writing-Tool)からHIDBootLoader.exeをダウンロードします。  
 （これは、Microchipさんが公開しているライブラリ「MCHPFSUSB」の中にある物と同一です）  
 
 このソフトは.NET framework 2.0を用いて作成されています。  
