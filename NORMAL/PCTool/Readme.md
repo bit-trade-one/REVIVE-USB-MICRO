@@ -95,3 +95,8 @@ REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続�
 チェックを入れたもの全てが反応する様になります。  
 例えば、「ボタン１」と「ボタン３」にチェックを入れた場合、そのピンをONにすると、「ボタン１／３」が同時におされます。  
 ![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/06pad.jpg)  
+
+## ex. 開発環境
+
+このソフトウェアは、以下の環境で開発されています。
+- Microsoft Visual C# 2010 Express
