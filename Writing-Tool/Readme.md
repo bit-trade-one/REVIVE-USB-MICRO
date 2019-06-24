@@ -19,7 +19,7 @@ REVIVE USB MICROに付属しているマイコンにはこのBootLoaderと言う
 
 ### 2. 準備
 
-[こちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/tree/master/Writing-Tool)からHIDBootLoader.exeをダウンロードします。  
+[こちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/raw/master/Writing-Tool/HIDBootLoader.exe)からHIDBootLoader.exeをダウンロードします。  
 （これは、Microchipさんが公開しているライブラリ「MCHPFSUSB」の中にある物と同一です）  
 
 このソフトは.NET framework 2.0を用いて作成されています。  
