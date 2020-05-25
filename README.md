@@ -1,46 +1,47 @@
-# REVIVE-USB-MICRO
-
-### *製品ページは[こちら](http://bit-trade-one.co.jp/adrvmic/)*
+# ADRVMIC-REVIVE-USB-Micro
 
 ## 弊社ベストセラー製品が驚異の小型化！
 
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/69209f552afd6cf0d256302625368929.jpg)
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/69209f552afd6cf0d256302625368929.jpg)  
 
-簡単にオリジナルUSBデバイスを製作できるモジュールです。ピンにスイッチを接続するだけでユーザーに敷居の高いUSBインターフェースの入力処理や設定を全てこのモジュールが対応します。
+簡単にオリジナルUSBデバイスを製作できるモジュールです。ピンにスイッチを接続するだけでユーザーに敷居の高い  
+USBインターフェースの入力処理や設定を全てこのモジュールが対応します。
 
-### 1円玉サイズの小型化に成功！
+## [製品の詳細はこちら](http://bit-trade-one.co.jp/adrvmic/) 
 
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/f4d94dffc9d1d40169a9710aa342769b-1.png)
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App/)  
 
-幅約20mm、重量約1gの超小型サイズで、ほぼ1円玉と同程度の小型化に成功しました。搭載デバイスを選びません！
+## [ファームウェアはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware/)
 
-USBでパソコンと接続し、専用ソフトウェアを用いて12本のピンに任意の操作（マウスクリック／キー入力等）を設定する事が出来ます。一度設定した操作は本体モジュール内のメモリに保存され、他のパソコンに接続した際にも設定を変更することなく使用可能となります。
+## [Q&A](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/FAQ.md)
 
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/e941c472c8289b0b597136899fb1ebd1-1.png)
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App_source/)  
 
-### 簡単設定ツールでマウス／キーボード／ジョイパッドの各機能を割付可能
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware_source/)
 
-各操作の設定は直感的インタフェースを持つ専用Windowsソフトウェアを用いて行ない、どなたにでも簡単に設定出来ます。
+### [基板図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)
 
-マウス機能／キーボード機能／ジョイパッド機能を混在させる事も可能です。
+### [回路図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)
 
-### 搭載機能
+### [部品表](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Partslist/ADRVMIC-Partslist.md)
 
-<マウス機能>
- - 左クリック
- - 右クリック
- - ホイールクリック
- - 上下左右へのマウス移動
- - 上下へのホイールスクロール
+## 作例
 
-<キーボード機能>
- - 任意のキーへの割当て
+[格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/)  
+[自分だけのオリジナルUSBコントローラが作れる「REVIVE USB Micro」で変なの作ってみた（PC-watch）](https://pc.watch.impress.co.jp/docs/column/tool/1200128.html)  
 
-<ジョイパッド機能>
- - X軸／Y軸（上下左右)
- - ボタン1～ボタン12
+## 雑誌掲載情報  
 
-マトリクス対応ファームウェアをご用意、最大36ボタンに対応！
+[工学社 I/O 2019年10月号](http://www.kohgakusha.co.jp/books/detail/4579)  
 
-マトリクス対応ファームウェアに変更することで最大36の入力に対応しています。
-（ファームウェアの書き換え作業が必要になります。）
+## 製品仕様
+    【対応OS】Windows7以降
+    【サイズ】W16×D20×H5mm
+    【重量】約1g
+    【入力点数】12(デジタル)
+    【コネクタ】USBマイクロB
+    【電源】5V (USBマイクロB)
+    【使用温度】0 ～ 40℃（結露なきこと）
+    【保証期間】 1年間
+    【付属品】保証書 1部
+    【生産国】Made in Japan
