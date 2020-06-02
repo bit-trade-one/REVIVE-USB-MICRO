@@ -9,21 +9,21 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 ## [製品の詳細はこちら](http://bit-trade-one.co.jp/adrvmic/) 
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App/)  
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/raw/master/App/)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware/)
+## [ファームウェアはこちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/raw/master/Firmware/)
 
-## [Q&A](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/FAQ.md)
+## [Q&A](https://github.com/bit-trade-one/REVIVE-USB-MICRO/blob/master/FAQ.md)
 
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App_source/)  
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/raw/master/App_source/)  
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware_source/)
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/raw/master/Firmware_source/)
 
-### [基板図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)
+### [基板図](https://github.com/bit-trade-one/REVIVE-USB-MICRO/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)
 
-### [回路図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)
+### [回路図](https://github.com/bit-trade-one/REVIVE-USB-MICRO/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)
 
-### [部品表](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Partslist/ADRVMIC-Partslist.md)
+### [部品表](https://github.com/bit-trade-one/REVIVE-USB-MICRO/blob/master/Partslist/ADRVMIC-Partslist.md)
 
 ## 作例
 
