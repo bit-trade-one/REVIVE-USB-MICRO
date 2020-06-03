@@ -29,6 +29,7 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 [格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/)  
 [自分だけのオリジナルUSBコントローラが作れる「REVIVE USB Micro」で変なの作ってみた（PC-watch）](https://pc.watch.impress.co.jp/docs/column/tool/1200128.html)  
+[REVIVE USB †MICRO†を使ったスティックアダプタの製作（しおんパパのひみつきち）](https://sions-papa.blogspot.com/2019/11/revive-usb-micro2019.html)  
 
 ## 雑誌掲載情報  
 
