@@ -1,7 +1,7 @@
 # ファイルリスト
 
  - REVIVE_MICRO.zip(通常版)
- - REVIVE_MATRIX.zip(マトリックス版)
+ - REVIVE_MATRIX.zip(マトリックス版)（修正中、近日再公開予定）
  - HIDBootLoader.exe(ファームウェア書込ツール)
 
 # REVIVE USB MICROファームウェア
