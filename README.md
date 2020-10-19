@@ -1,5 +1,9 @@
 # ADRVMIC-REVIVE-USB-Micro
 
+## **このリポジトリは古いバージョンのリポジトリです。**
+
+## **最新のファイルは[こちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro)を参照してください。**
+
 ## 弊社ベストセラー製品が驚異の小型化！
 
 ![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/69209f552afd6cf0d256302625368929.jpg)  
@@ -9,27 +13,27 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 ## [製品の詳細はこちら](http://bit-trade-one.co.jp/adrvmic/) 
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/raw/master/App/)  
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App/)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/raw/master/Firmware/)
+## [ファームウェアはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware/)
 
-## [Q&A](https://github.com/bit-trade-one/REVIVE-USB-MICRO/blob/master/FAQ.md)
+## [Q&A](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/FAQ.md)
 
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/raw/master/App_source/)  
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App_source/)  
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/raw/master/Firmware_source/)
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware_source/)
 
-### [基板図](https://github.com/bit-trade-one/REVIVE-USB-MICRO/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)
+### [基板図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Dimensions/ADRVMIC-REVIVE-USB-Micro-Dimensions.pdf)
 
-### [回路図](https://github.com/bit-trade-one/REVIVE-USB-MICRO/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)
+### [回路図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Schematics/ADRVMIC-REVIVE-USB-Micro-Schematics.pdf)
 
-### [部品表](https://github.com/bit-trade-one/REVIVE-USB-MICRO/blob/master/Partslist/ADRVMIC-Partslist.md)
+### [部品表](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Partslist/ADRVMIC-Partslist.md)
 
 ## 作例
 
 [格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/)  
 [自分だけのオリジナルUSBコントローラが作れる「REVIVE USB Micro」で変なの作ってみた（PC-watch）](https://pc.watch.impress.co.jp/docs/column/tool/1200128.html)  
-[REVIVE USB †MICRO†を使ったスティックアダプタの製作（しおんパパのひみつきち）](https://sions-papa.blogspot.com/2019/11/revive-usb-micro2019.html)  
+[REVIVE USB †MICRO†を使ったスティックアダプタの製作（しおんパパのひみつきち）](https://sions-papa.blogspot.com/2019/11/ADRVMIC-REVIVE-USB-Micro2019.html)  
 
 ## 雑誌掲載情報  
 
