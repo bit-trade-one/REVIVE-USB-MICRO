@@ -23,9 +23,9 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 ### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware_source/)
 
-### [基板図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Dimensions/REVIVE-USB-Micro-Dimensions.pdf)
+### [基板図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)
 
-### [回路図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Schematics/REVIVE-USB-Micro-Schematics.pdf)
+### [回路図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)
 
 ### [部品表](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Partslist/ADRVMIC-Partslist.md)
 
