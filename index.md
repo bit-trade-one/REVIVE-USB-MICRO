@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# KTR-1 サイト仮
 
-You can use the [editor on GitHub](https://github.com/bit-trade-one/REVIVE-USB-MICRO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# トップ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![](https://img.youtube.com/vi/HvboFmnxC9I/0.jpg)](https://www.youtube.com/watch?v=HvboFmnxC9I)
 
-### Markdown
+KTR-1はProMicro・電池ボックス・各種入出力を搭載したarduino制御学習用ロボットです。  
+オープンソースハードウェアのため、書き込んであるプログラムや回路、基板の寸法etc......すべてを公開しております。  
+現在arduinoの使い方がわからない方もKTR-1で遊んでもらい、立派なarduino使いになっていただければと思います。  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 目次
 
-```markdown
-Syntax highlighted code block
+1.LEDの点滅
+LEDの制御を行います。
 
-# Header 1
-## Header 2
-### Header 3
+2.音を鳴らす
+ブザーから音を出します。
 
-- Bulleted
-- List
+3.スイッチからの入力を見る
 
-1. Numbered
-2. List
+4.ボリュームの連続した値を見る
 
-**Bold** and _Italic_ and `Code` text
+5.モータを動かす
 
-[Link](url) and ![Image](src)
-```
+6.距離センサを使う
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bit-trade-one/REVIVE-USB-MICRO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+7.自律プログラムの完成
