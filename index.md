@@ -2,7 +2,7 @@
 
 # トップ
 
-[![](https://img.youtube.com/vi/HvboFmnxC9I/0.jpg)](https://www.youtube.com/watch?v=HvboFmnxC9I)
+https://www.youtube.com/watch?v=HvboFmnxC9I
 
 KTR-1はProMicro・電池ボックス・各種入出力を搭載したarduino制御学習用ロボットです。  
 オープンソースハードウェアのため、書き込んであるプログラムや回路、基板の寸法etc......すべてを公開しております。  
