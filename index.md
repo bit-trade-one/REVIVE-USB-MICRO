@@ -1,6 +1,6 @@
 # KTR-1 サイト仮
 
-# トップ
+# はじめに
 
 [![](https://img.youtube.com/vi/HvboFmnxC9I/0.jpg)](https://www.youtube.com/watch?v=HvboFmnxC9I)
 
