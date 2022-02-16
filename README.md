@@ -2,7 +2,7 @@
 
 ## **このリポジトリは古いバージョンのリポジトリです。**
 
-## **最新のファイルは[こちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro)を参照してください。**
+## **最新のファイルは[こちら](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2)を参照してください。**
 
 ## 弊社ベストセラー製品が驚異の小型化！
 
